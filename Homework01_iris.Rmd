@@ -34,4 +34,14 @@ sd(iris$Sepal.Width)
 ```{r}
 hist(iris$Petal.Length)
 ```
+```{r}
+x <- iris$Petal.Width
+y <- iris$Sepal.Width
+
+```
+```{r}
+cor(x, y)
+```
+```{r}ss
+```
 
