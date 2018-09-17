@@ -2,7 +2,9 @@
 title: "Hw01_iris"
 author: "CouBC"
 date: '2018-09-13'
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 ```{r}
 data("iris")
